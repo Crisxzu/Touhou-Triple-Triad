@@ -1,6 +1,6 @@
 # Aperçu
 
-![Preview](https://ibb.co/D54GJyV "Touhou-Triple-Triad-Preview")
+![Preview](https://i.ibb.co/3B1f3qr/Touhou-Triple-Triad-preview.png "Touhou-Triple-Triad-Preview")
 
 # Etapes d'installation
 
