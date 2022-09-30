@@ -4,19 +4,19 @@
 
 * Il vous suffit d'extraire l'archive en faisant depuis votre terminal:
 
-tar zxvf "Touhou Triple Triad.tar.gz" `code`
+**tar zxvf "Touhou Triple Triad.tar.gz"**
 
 * Vous aurez un dossier "touhou_triple_triad", ouvrez le puis ensuite lancer le script "touhou_triple_triad.sh" depuis votre terminal en faisant:
 
-./touhou_triple_triad.sh `code`
+**./touhou_triple_triad.sh**
 
 Si jamais il y a un problème de permission, faites:
 
-chmod u+x touhou_triple_triad.sh `code`
+**chmod u+x touhou_triple_triad.sh**
 
 Puis ensuite:
 
-./touhou_triple_triad.sh `code`
+**./touhou_triple_triad.sh**
 
 Cette commande permet d'accorder la permission d'exécuter le script.
 
