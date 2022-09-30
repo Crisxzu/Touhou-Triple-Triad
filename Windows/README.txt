@@ -28,6 +28,6 @@ Etapes pour l'installation du jeu Touhou Triple Triad("Touhou Triple Triad.zip")
 
 - Il vous suffit d'extraire l'archive grâce à un logiciel d'archivage, Winrar est par exemple assez simple d'utilisation
 
-- Une fois extrait, vous aurez un dossier "Touhou Triple Triad", ouvrez-le et pour lancer le jeu, faites double clic sur touhou_triple_triad.exe
+- Une fois extrait, vous aurez un dossier "Touhou Triple Triad", ouvrez-le et pour lancer le jeu, faites double clic sur touhou_triple_triad.exeo 
 
 Bonne partie à vous et n'oubliez pas de donner votre avis sur le jeu ^^ et d'apporter votre soutien aux créateurs.
