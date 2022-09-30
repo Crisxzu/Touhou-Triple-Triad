@@ -1,3 +1,7 @@
+# Aperçu
+
+![Preview](https://ibb.co/D54GJyV "Touhou-Triple-Triad-Preview")
+
 # Etapes d'installation
 
 ## Linux
