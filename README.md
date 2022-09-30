@@ -70,4 +70,4 @@ Cette règle permet de cacher au hasard à chaque joueur 4 cartes de son adversa
 
 # Dédicace
 
-Un grand merci à Zuda pour son aide incroyable sur ce projet d'apprentissage autant sur le plan pédagogique que humain et moral.Gros pathead à toi ^^.
+Un grand merci à Zuda pour son aide incroyable sur ce projet d'apprentissage autant sur le plan pédagogique que humain et moral. Gros pathead à toi ^^.
